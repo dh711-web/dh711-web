@@ -1,7 +1,7 @@
 # DongHyun Yun (윤동현)
 
 Chemical engineering undergraduate at Soongsil University,
-minoring in next-generation semiconductor convergence.
+minoring in next-generation semiconductor engineering.
 
 **Focus** — process integration and yield engineering.
 I work at the boundary between process physics and process data:
